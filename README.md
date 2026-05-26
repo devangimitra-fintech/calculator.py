@@ -1,22 +1,23 @@
 # calculator.py
 Features-
+
 Arithmetic Operations-
-Addition
-Subtraction
-Multiplication
+Addition,
+Subtraction,
+Multiplication,
 Division
 
 Scientific Operations-
-Power
-Square Root
-Sine
-Cosine
-Tangent
-Logarithm
+Power,
+Square Root,
+Sine,
+Cosine,
+Tangent,
+Logarithm,
 
 Other Features-
-Menu-driven interface
-Continuous execution until exit
+Menu-driven interface,
+Continuous execution until exit,
 Exception handling for invalid inputs
 
 ===== SCIENTIFIC CALCULATOR =====
