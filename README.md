@@ -13,7 +13,7 @@ Square Root,
 Sine,
 Cosine,
 Tangent,
-Logarithm,
+Logarithm
 
 Other Features-
 Menu-driven interface,
