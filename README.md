@@ -5,6 +5,7 @@ Addition
 Subtraction
 Multiplication
 Division
+
 Scientific Operations-
 Power
 Square Root
@@ -12,6 +13,7 @@ Sine
 Cosine
 Tangent
 Logarithm
+
 Other Features-
 Menu-driven interface
 Continuous execution until exit
