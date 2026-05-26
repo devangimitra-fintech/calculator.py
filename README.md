@@ -31,4 +31,3 @@ Exception handling for invalid inputs
 10. Logarithm
 11. Exit
 
-12. 
